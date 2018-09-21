@@ -1,0 +1,103 @@
+body {
+  background: white;
+  color: #e17055;
+  font-family: 'Raleway', sans-serif;
+}
+
+a {
+  text-decoration: none;
+}
+
+p {
+  margin: -95px 410px 90px 0px;
+}
+
+div{
+  text-align: justify;
+}
+
+h1 {
+  font-family: 'Bungee Shade', cursive;
+  font-weight:600;
+  font-size: 50px;
+  color:#6B4230;
+  text-align:center;
+}
+
+
+h3 {
+  color:#4F3124; 
+  padding:-50px 0; 
+  text-align:center;  
+}
+
+}
+img {
+  opacity: 0.8;
+  -webkit-filter: grayscale(10%); /* Safari 6.0 - 9.0 */
+  filter: grayscale(10%);
+  width: 5%;
+  height: auto;
+  
+}
+
+img:hover {
+  opacity: 0.8;
+  -webkit-filter: none; /* Safari 6.0 - 9.0 */
+  filter: none;
+}
+
+
+/*Estilos Generales*/
+.button {
+  background: #F9C87B;
+  color: #e17055;
+  display:inline-block;
+  font-size:16px;
+  margin:0% -10% 1% 18%;
+  padding:10px 0px 10px;
+  text-align:center;
+  width:180px;
+  text-decoration:none;
+  box-shadow:0px 3px 0px #F7A11E;
+}
+ 
+/*Tamaños*/
+.button.medium {
+  width:350px;
+}
+ 
+.button.radius {
+  border-radius:50px;
+}
+ 
+/*Efectos, Hover*/
+.button:hover {
+  box-shadow:0px 0px 0px;
+  padding-top:7px;
+}
+
+.least-gallery {
+ margin:0% 10% 0% 10%;
+ padding: 20px 0;
+}
+
+.amarillo {
+  background: #FEE7B4;
+  border-radius: 10px;
+  width: 450px;
+  display: inline-block;
+  margin: 30px 0px 30px 30px;
+  padding: 15px 15px 15px 30px;
+}
+
+.amarillo2 {
+  background: #FEE7B4;
+  border-radius: 10px;
+  width: 450px;
+  display: inline-block;
+  margin: 30px -100px 100px 200px;
+  padding: 15px 15px 15px 30px;
+  }
+
+
